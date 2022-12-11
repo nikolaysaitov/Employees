@@ -19,7 +19,7 @@ const EmployeesListItem = (props) => {
       </span>
       <input
         type="text"
-        className="list-group-item input"
+        className="list-group-item-input"
         defaultValue={salary + "$"}
       />
       <div className="d-flex justify-content-center align-items-center">
